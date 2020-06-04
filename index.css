@@ -1,0 +1,11 @@
+body{
+    background-color: red;
+}
+.myclass{
+    border-radius: 2px;
+    border: 4px solid green;
+}
+#myid{
+    cursor: pointer;
+    width: 100%;
+}
